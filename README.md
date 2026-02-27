@@ -11,9 +11,10 @@ I am currently learning several different things, including Japanese, chess, mat
 
 - One hour of math every week with a [teacher](https://www.maprofdemaths.com/)
 - Self-learning Python programming with the help of my [mentor](https://github.com/Master-Touks)
+- Saturday morning, I attend Arduino workshops where we build Arduino projects and learn about electronics.
 - Various other online self-paced classes
 
-Professionally, I am working for a company in the field of machine learning, where I have no prior knowledge about ML. So, this is another topic to add to my list of things to learn.
+Professionally, I was working for a company in the field of machine learning, where I had no prior knowledge about ML and learned a ton from the team. Although I left that company, I still try to improve my technical knowledge about ML topics.
 
 There are many topics I want to learn in the future, and I could start plenty of other hobbies. However, my hypercuriosity can sometimes lead to distractions and cause me to lose track of what I want to learn.
 
